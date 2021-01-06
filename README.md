@@ -4,7 +4,7 @@ This project has the capability of being used by social networking platforms or 
 
 **DEMO EXECUTION TWITTER DATA ANALYSIS FOR A MEDIA CHANNEL- Click below on the Video** <br>
 <div align="center">
-      <a href="https://youtu.be/wv96_7gRTG8">
+      <a href="https://youtu.be/pN-hK5NqQjk">
      <img 
       src="https://img.youtube.com/vi/pN-hK5NqQjk/0.jpg" 
       alt="Dashboard" 
