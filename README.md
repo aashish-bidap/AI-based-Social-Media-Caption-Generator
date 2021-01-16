@@ -1,4 +1,4 @@
-# Title : AI based Social Media Caption Generator 
+# Title : Social Media Caption Generator 
 
 ## Description:
 This project has the capability of being used by social networking platforms or other image-dependent platforms as a “Automatic Social Media Caption Generator”. Social media platforms like Instagram, Facebook, Twitter, Pinterest are highly dependent on how the image descriptions are set up with a good caption and hashtags. Our model analyzes the objects in the image and generates categories that can be used as “hashtags” and further recommends captions to the user as they upload images into the application. 
