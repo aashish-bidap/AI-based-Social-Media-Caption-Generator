@@ -24,7 +24,9 @@ Phase 3: Building the UI
 ![Alt text](https://github.com/aashish-bidap/AI-based-Social-Media-Caption-Generator/blob/main/Picture1.png)
 
 
-**DEMO EXECUTION - Click below on the Video** <br>
+## DEMO EXECUTION 
+Click below on the Video
+
 <div align="center">
       <a href="https://youtu.be/pN-hK5NqQjk">
      <img 
